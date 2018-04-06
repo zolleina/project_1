@@ -1,2 +1,10 @@
 First Name, Last Name, User ID, Password, PIN, Directory URI
-Pippo,Pippo,pippo,Cisco12345,12345,pippo@pippo.com
+Pippo,Pippo,pippo,Cisco12345,12345,pippo@pippo.compippo2.txt
+total 23
+-rw-r--r-- 1 azanfard 1049089 5378 Apr  6 16:21 exported_pod_users_12042017121524.csv.txt
+-rw-r--r-- 1 azanfard 1049089 1747 Apr  6 16:21 exported_pod_users_12042017183752 - Copy.txt
+-rw-r--r-- 1 azanfard 1049089 1747 Apr  6 16:21 exported_pod_users_12042017183752.txt
+-rw-r--r-- 1 azanfard 1049089  516 Apr  6 16:24 ntuser.ini
+-rw-r--r-- 1 azanfard 1049089  123 Apr  6 16:22 pippo.csv.txt
+-rw-r--r-- 1 azanfard 1049089  731 Apr  6 16:27 pippo2.txt
+-rw-r--r-- 1 azanfard 1049089   61 Apr  6 16:22 README.md

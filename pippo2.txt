@@ -1,2 +1,10 @@
 FIRST NAME, MIDDLE NAME, LAST NAME, USER ID, Password, MANAGER USER ID, DEPARTMENT, PIN, USER LOCALE, TELEPHONE NUMBER, DIRECTORY URI
 Pennie,,Lane,user049,Password12345,,Cresta,12345,,011666616501,user@domain.com
+total 20
+-rw-r--r-- 1 azanfard 1049089 5378 Apr  6 16:21 exported_pod_users_12042017121524.csv.txt
+-rw-r--r-- 1 azanfard 1049089 1747 Apr  6 16:21 exported_pod_users_12042017183752 - Copy.txt
+-rw-r--r-- 1 azanfard 1049089 1747 Apr  6 16:21 exported_pod_users_12042017183752.txt
+-rw-r--r-- 1 azanfard 1049089  516 Apr  6 16:24 ntuser.ini
+-rw-r--r-- 1 azanfard 1049089  123 Apr  6 16:22 pippo.csv.txt
+-rw-r--r-- 1 azanfard 1049089  215 Apr  6 16:21 pippo2.txt
+-rw-r--r-- 1 azanfard 1049089   61 Apr  6 16:22 README.md
