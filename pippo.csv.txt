@@ -1,0 +1,2 @@
+First Name, Last Name, User ID, Password, PIN, Directory URI
+Pippo,Pippo,pippo,Cisco12345,12345,pippo@pippo.com
